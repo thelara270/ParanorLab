@@ -10569,8 +10569,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   time: 0.08
-  activeDuration: 3.5
-  pauseDuration: 2.5
+  activeDuration: 4
+  pauseDuration: 2
   controller: {fileID: 669007006}
   audiomanager: {fileID: 818385108}
 --- !u!114 &1744444455

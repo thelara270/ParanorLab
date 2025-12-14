@@ -50,9 +50,6 @@ public class ActivyPanelPower : MonoBehaviour
             {
                 AbrirPanelPowerUpD();
             }
-
-
-
         }
     }
 
